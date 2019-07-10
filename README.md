@@ -1,7 +1,6 @@
 # baike_spider
 百度百科爬虫
-
-基于Python 3.5版本
+Python3.5
 
 爬取excel表格第一列词汇的百科释义以及地址。  
 
